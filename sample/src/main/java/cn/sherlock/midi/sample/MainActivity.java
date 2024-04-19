@@ -8,6 +8,7 @@ import java.io.IOException;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.MotionEventCompat;
+
 import cn.sherlock.com.sun.media.sound.SF2Soundbank;
 import cn.sherlock.com.sun.media.sound.SoftSynthesizer;
 import jp.kshoji.javax.sound.midi.InvalidMidiDataException;
